@@ -1,9 +1,11 @@
-# 🚀 Welcome to your new awesome project!
-LINK:
-frontend-project-lvl3-ochre-nu.vercel.app
+# 🚀 RSS feed aggregator with post autoupdate feature
 
-This project has been created using **webpack-cli**, you can now run
+Link (Vercel):
+```
+https://frontend-project-lvl3-khaki-zeta.vercel.app/
+```
 
+Installation 
 ```
 npm run build
 ```
@@ -14,4 +16,3 @@ or
 yarn build
 ```
 
-to bundle your application
